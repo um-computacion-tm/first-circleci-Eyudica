@@ -1,5 +1,5 @@
 import unittest
-from codeci import functionci
+from main import functionci
 
 class TestMain(unittest.TestCase):
     def test_main(self):
